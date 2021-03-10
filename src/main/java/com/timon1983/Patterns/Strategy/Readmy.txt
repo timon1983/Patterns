@@ -1,0 +1,4 @@
+Шаблон проектирования Стратегия(Strategy).
+-Классы MakingElectricity, MakingPlumbing и BuildingHouse реализуют интерфейс Working .
+-В классе клиенте создаем объект класса WorkType и с помощью метода doWorking() даем команды на выполнение
+различных видов работ.
